@@ -47,9 +47,14 @@
 <code><img height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
 <code><img height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
 <code><img height="50" width="60" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png"></code>
-<code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="50" width="60" src="https://seeklogo.com/images/J/jquery-logo-BD35C03823-seeklogo.com.png"></code>
 <br/>
 <br/>
+
+
+
+
+
 <br />
 <br />
 <code><img height="50" width="60" src="https://seeklogo.com/images/N/node-node-js-logo-81A4CC16D2-seeklogo.com.png"></code>
@@ -57,14 +62,16 @@
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
-<code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="50" width="60" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"></code>
 <code><img height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="50" width="60" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
 <code><img height="50" widhth="60" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"></code>
+<code><img height="50" width="60" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="50" width="60" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"></code>
 <code><img height="50" width="60" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"></code>
+<code><img height="50" width="50" src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png"></code>
 <br/>
 <br/>
 
