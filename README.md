@@ -4,9 +4,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🎲 I'm interested in learning more about **Blockchain Technology**
-- 🌱 I’m currently learning **React and Blockchain Programming**
+- 🔭 I’m currently working on **Web and Mobile app Development**
+- 🎲 I'm interested in learning more about **Blockchain Technology | IoT | AI**
+- 🌱 I’m currently learning **React, Flutter and Blockchain Programming**
 - 👯 I’m looking to collaborate on **Web and Mobile Development**
 </br>
 </br>
